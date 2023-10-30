@@ -1,7 +1,3 @@
 Lorem ipsum
 This is branch
-<<<<<<< HEAD
-branchk
-=======
 conflict
->>>>>>> branch_conflict
